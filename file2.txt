@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 #this is my second file
+=======
+#second file
+>>>>>>> Stashed changes
